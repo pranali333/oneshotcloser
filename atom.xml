@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>.. to the perfect shot :)</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>First shot : Green Bee Eater</title>
+        
+          <description>&lt;p&gt;A brief about green bee eater.&lt;/p&gt;
+
+&lt;p&gt;The green bee-eater have cravings to eat bees. It can even digest 200-220 bees a day – a good reason to be hated by bee-keepers uhm.&lt;/p&gt;
+
+&lt;p&gt;Wasps, dragonflies and butterflies are occasionally on the menu. Another fun fact is, it eats insects which are poisonous in nature.&lt;/p&gt;
+
+&lt;p&gt;It used to hit its pecker on wood or some surface, it is her natural way to remove that poison from the pray, interesting han :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2017-03-19-green-bee-eater-image-1.jpg&quot; alt=&quot;Green Bee Eater&quot; /&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 19 Mar 2017 10:00:00 +0000</pubDate>
+        <link>
+        http://localhost:4000/green-bee-eater</link>
+        <guid isPermaLink="true">http://localhost:4000/green-bee-eater</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
